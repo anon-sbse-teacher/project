@@ -1,0 +1,3 @@
+This repository contains two files. 
+The first is the sbse-assignment03_2017.pdf which contains a specification for an assignment that was used in 2017 and, with minor modifications in 2018 for students to explore search based software engineering.
+The second is gin-master.tar an earlier version of gin used in this assignment. The latest version of Gin is similar in its core structure but has more utilities and support for loading projects, hot-spot localisation and integrating and extending tests from project repositories. 
